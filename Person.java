@@ -14,14 +14,6 @@ public class Person {
         return name;
     }
 
-//    public int getCanRun() {
-//        return canRun;
-//    }
-//    public int getCanSwim() {
-//        return canSwim;
-//    }
-//    public int getCanJump() {
-//        return canJump;
-//    }
+
     public int getPower(){ return power;}
 }
